@@ -1,0 +1,5 @@
+t:w
+#!/bin/bash
+echo "ALX"
+:wq
+
